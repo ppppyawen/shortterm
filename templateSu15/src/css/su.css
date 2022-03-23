@@ -1,0 +1,10 @@
+/*苏丛 编写的 小型前端css 全栈开发,QQ:630304481,江苏籍.*/
+*{margin:0;padding:0;list-style: none;font:14px/180% "";}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+	align-items: center;
+	box-sizing:border-box;
+}
+.row>li,.row>div,.row>span,.row>p{box-sizing: border-box;}
+.row img{width:100%;}
